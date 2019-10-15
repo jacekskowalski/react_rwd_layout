@@ -2,7 +2,9 @@
 
 Simple react responsive app with a few components
 
-Clone repo and type npm install to install dependencies.
+## Clone repo and go to react_rwd_layout folder
+
+## type npm install to install dependencies.
 
 It works in currents browsers
 
